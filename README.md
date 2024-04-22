@@ -23,7 +23,7 @@ DocQuery is a Streamlit application that allows you to upload PDF documents and 
 
 To get started with DocQuery, follow these steps:
 
-1) Clone the repository: git clone https://github.com/Jahnavi0504/DocQuery-Document-based-LLM-chatbot.git
+1) Clone the repository: https://github.com/Aniesh04/AI-Powered-Document-Insights.git
 
 2) Install the required dependencies: pip install -r requirements.txt
 
